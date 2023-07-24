@@ -60,6 +60,7 @@ Hello. Everyone! Hope you are doing well. I am an experienced AI/ML/DL/CV/NLP ex
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sharpspear" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>

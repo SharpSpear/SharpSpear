@@ -74,4 +74,4 @@ Hello. Everyone! Hope you are doing well. I am an experienced AI/ML/DL/CV/NLP ex
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sharpspear/VoiceBot_LipSync" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpspear&repo=VoiceBot_LipSync&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

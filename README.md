@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=greenplanet0204&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SharpSpear
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SharpSpear<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ==================================================================================================================================
 
 Experienced AI & ML Engineer || Full-Stack Developer
